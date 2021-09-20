@@ -22,8 +22,8 @@ h1 {
   text-align: center;
   color: #fff;
   font-size: 35px;
-  }
- 
+}
+
 p {
   font-size: 1.125rem;
   text-align: center;
@@ -49,7 +49,10 @@ label {
   color: #fff;
 }
 
-input,button,select,textarea {
+input,
+button,
+select,
+textarea {
   margin: 0;
   font-family: inherit;
   font-size: inherit;
@@ -94,8 +97,6 @@ input,button,select,textarea {
   width: 100%;
   padding: 0.75rem;
   background: #37af65;
-  color: inherit;
-  border-radius: none;
   cursor: pointer;
   color: #fff;
 }
